@@ -1,8 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md).
-
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
@@ -132,7 +129,7 @@ We are always open to [your feedback](https://github.com/facebook/create-react-a
 After creation, your project should look like this:
 
 ```
-my-app/
+Air-Quality-Index-Api/
   README.md
   node_modules/
   package.json
